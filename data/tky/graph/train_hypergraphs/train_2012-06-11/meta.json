@@ -1,0 +1,7 @@
+{
+  "week": "train_2012-06-11",
+  "nodes": 3901,
+  "edges_user": 1145,
+  "edges_cat": 145,
+  "edges_geo": 662
+}

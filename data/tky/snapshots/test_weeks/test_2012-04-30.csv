@@ -1,0 +1,3 @@
+user_index,poi_index,cat_index,POI_catname,latitude,longitude,local_time,week_start,split_week,session_id
+1601,5393,39,Food & Drink Shop,35.58231365212515,139.70018425435964,2012-05-04 20:35:17,2012-04-30,test,1601_4
+1601,841,141,Stadium,35.66413037753068,139.52701091766355,2012-05-05 14:20:26,2012-04-30,test,1601_4
