@@ -53,13 +53,8 @@ PreProcessing data:
 ```
 
 ## Usage
-### 1. Construct weekly multi-type hypergraphs:
 
-```text
-python create_hypergraph.py
-```
-
-### 2.Train and evaluate the model:
+### Train and evaluate the model:
 
 ```text
 python main.py
